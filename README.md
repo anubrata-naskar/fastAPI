@@ -1,4 +1,4 @@
-# FastAPI Applications Suite
+# FastAPI Applications Suite (demo project)
 
 A comprehensive collection of FastAPI applications demonstrating various use cases, from basic API development to machine learning model deployment and enterprise-level applications.
 
